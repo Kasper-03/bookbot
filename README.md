@@ -1,4 +1,4 @@
-# bookbot
+#📘BookBot
 
 Bookbot to mój pierwszy [Boot.dev](https://www.boot.dev) projekt!
 
