@@ -19,7 +19,7 @@ def main():
     r_raport = raport(num_char)
 
     print("============ BOOKBOT ============")
-    print("Analyzing book found at ")
+    print("Analyzing book")
     print("----------- Word Count ----------")
     print(f"Found {num_words} total words")
     print("--------- Character Count -------")
